@@ -1,5 +1,8 @@
 # RD-0410-for-KSP
 
+License: Creative Commons Attribution-ShareAlike 4.0 International Public License
+
+
 Forum Post
 https://forum.kerbalspaceprogram.com/index.php?/topic/115825-wip-rd-0410-soviet-nuclear-engine/
 
